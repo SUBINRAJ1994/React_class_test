@@ -116,3 +116,25 @@
 //   );
 // };
 // export default App;
+// import React from "react";
+// import SimpleForm from "./SimpleForm";
+
+// const App = () => {
+//     return (
+//         <div>
+//             <SimpleForm />
+//         </div>
+//     );
+// }
+// export default App;
+// Create a button that shows an alert message when clicked
+import React from "react";
+import AlertButton2 from "./AlertButton2";
+ const App = () => {
+    return (
+        <div>
+            <AlertButton2 />
+        </div>
+    );
+ }
+ export default App;
